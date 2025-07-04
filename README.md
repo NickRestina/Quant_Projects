@@ -1,1 +1,1 @@
-# Trading_Algorithms
+A portfolio of trading algorithm experiments built in Python using the Alpaca Trading API. Designed to test trading strategies and serve as a foundation for learning algorithmic trading, finance, and quantitative modeling.
