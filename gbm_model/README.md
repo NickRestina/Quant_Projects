@@ -11,5 +11,7 @@
      A key drawback of this approach is that averaging the simulated price paths tends to reflect each stock’s historical drift, making the results heavily dependent on past performance. As a result, the strategy just trades based off past
      performance.
      
-  2. GBM Visualizer– This program was modified from the orginial GBM model to help visualize price paths of a stock to help visualize potential price paths and help estimate limits for COINS trades.
+  2. GBM Visualizer– This program is a modified version of the original Geometric Brownian Motion (GBM) model designed to visualize potential price paths of a selected stock. It was modified for use in COINS' copper trades by estimating trade
+     limits by simulating various future scenarios, making it easier to evaluate risk and opportunity within short-term trading windows.
+
 
